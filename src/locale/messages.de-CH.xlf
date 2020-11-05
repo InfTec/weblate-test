@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="8def8481e91291a52f9baa31cbdb313e6a6ca02b" datatype="html">
         <source>Hello i18n!</source>
-        <target></target>
+        <target>Hoi i18n!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">2</context>
@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="e593ec37d52b0d20f2e5b2f9343b4580e5d51e52" datatype="html">
         <source>Hello i18n, with a description!</source>
-        <target></target>
+        <target>Hoi i18n, mitere Beschriibig!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">3</context>
@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="b7fb88d118e557ef9e4cebc13048c6586eaab63e" datatype="html">
         <source>And finally just some random paragraph...</source>
-        <target></target>
+        <target>Und jetzt no irgend es gliiir...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">4</context>
