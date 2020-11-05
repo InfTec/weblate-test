@@ -2,8 +2,8 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="en-US" datatype="plaintext" original="ng2.template">
     <body>
-      <trans-unit id="8def8481e91291a52f9baa31cbdb313e6a6ca02b" datatype="html">
-        <source>Hello i18n!</source>
+      <trans-unit id="18c46f5b135892457ef0a7a9298950342360eade" datatype="html">
+        <source>Hello there, i18n!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">2</context>
@@ -22,6 +22,13 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="03cd2ed5849e12f93147312ee7d0a6d0bf10c0a1" datatype="html">
+        <source>And yet another random paragraph...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
     </body>
