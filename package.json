@@ -10,7 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "xi18n": "ng xi18n --output-path src/locale",
-    "i18n:xliffmerge": "xliffmerge --profile xliffmerge.json en de"
+    "i18n:xliffmerge": "xliffmerge --profile xliffmerge.json"
 
   },
   "private": true,
