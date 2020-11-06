@@ -1,5 +1,6 @@
 {
   "hello": "Hello There!",
   "hello-fallback": "Hello from English",
-	"This is some new key here, really...": "This is some new key here, really..."
+  "This is some new key here, really... but I made a change": "This is some new key here, really... but I made a change",
+  "This is some BRAND - NEW - KEY!!!": "This is some BRAND - NEW - KEY!!!"
 }
