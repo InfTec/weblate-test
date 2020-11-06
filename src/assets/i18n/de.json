@@ -1,5 +1,5 @@
 {
-	"hello": "Hallo da",
-	"hello-fallback": null,
-	"This is some new key here, really...": "Dies ist ein wirklich neuer Schlüssel..."
+    "hello": "Hallo da!",
+    "hello-fallback": "Hallo von Deutsch",
+    "This is some new key here, really...": "Dies ist ein wirklich neuer Schlüssel..."
 }
