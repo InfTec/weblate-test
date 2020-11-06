@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'weblate-test-ngx-translate';
+  lang = 'de';
+
+  constructor(private translate: TranslateService) {
+    translate.use(this.lang);
+  }
+
+  onLangChange(newLang: string): void {
+    this.lang = newLang;
+
+    this.translate.use(newLang);
+  }
 }

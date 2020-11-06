@@ -1,5 +1,9 @@
 # WeblateTestNgxTranslate
 
+## Adding ngx-translate support
+
+* `npm install @ngx-translate/core --save`
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
 ## Development server
