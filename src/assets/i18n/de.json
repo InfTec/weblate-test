@@ -1,6 +1,6 @@
 {
-  "hello": "Hallo da!",
-  "hello-fallback": "Hallo von Deutsch",
-  "This is some new key here, really... but I made a change": null,
-  "This is some BRAND - NEW - KEY!!!": null
+    "hello": "Hallo da!",
+    "hello-fallback": "Hallo von Deutsch",
+    "This is some new key here, really... but I made a change": "Das ist ein neuer Schlüssel, wirklich... aber ich habe was geändert",
+    "This is some BRAND - NEW - KEY!!!": "Dies ist ein BRAND - NEUER - SCHLÜSSEL!!!"
 }
