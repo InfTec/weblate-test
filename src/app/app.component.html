@@ -2,6 +2,7 @@
 <h2>Translate with Pipe: <span>{{'hello' | translate}}</span></h2>
 <h2>Translate with content: <span translate>hello</span></h2>
 <h2>Fallback Test: <span translate>hello-fallback</span></h2>
+<h2>New key: <span translate>This is some new key here, really...</span></h2>
 
 <label for="language">Language: </label>
 <select #langSelect [value]="lang" (change)="onLangChange(langSelect.value)">

@@ -1,4 +1,5 @@
 {
-	"hello": "",
-	"hello-fallback": ""
+	"hello": null,
+	"hello-fallback": null,
+	"This is some new key here, really...": null
 }
